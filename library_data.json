@@ -1,0 +1,14 @@
+[
+    {
+        "book_id": "b1",
+        "title": "helloworld",
+        "author": "rida",
+        "issued_to": null
+    },
+    {
+        "book_id": "b2",
+        "title": "rida",
+        "author": "rj",
+        "issued_to": null
+    }
+]
